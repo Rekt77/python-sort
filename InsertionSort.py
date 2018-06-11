@@ -1,5 +1,5 @@
 #!/usr/bin/python36
-#__author__ == "Rekt77"
+__author__ = "Rekt77"
 
 if __name__ == "__main__" :
     input_list = [4,6,1,2,9,4,5,2,3,4]
