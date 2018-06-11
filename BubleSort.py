@@ -1,5 +1,5 @@
 #!/usr/bin/python36
-#__author__ == "Rekt77"
+__author__ = "Rekt77"
 
 
 if __name__ == "__main__":
